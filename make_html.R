@@ -1,4 +1,12 @@
 #make HTML
+filepath <- "C:/Users/SCASTEL/OneDrive - HC-SC PHAC-ASPC/Documents/dataFlows/links/controlled_substances/testData.csv"
+
+  
+p <- make_sankey(filepath = filepath, link_alpha = 0.5, 
+                 cols_node = c("#FABC3C", "#FFB238", "#F19143", "#FF773D", "#F55536"), 
+                 cols_terminal = c("#5EB1BF","#CDEDF6"))
+
+
 
 widget_file_size <- function(p) {
   d <- getwd()
@@ -10,7 +18,7 @@ widget_file_size <- function(p) {
  widget_file_size(p)
 
  
- widget_file_size(partial_bundle(p))
+ #widget_file_size(partial_bundle(p))
 
 
 # Commit, Push

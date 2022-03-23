@@ -1,0 +1,77 @@
+from ,to,weight
+OCS,Licensed Dealer Inspections (OCS),21
+OCS,Pharmacy Inspections (OCS),4
+CSP,Destruction Activities (CSP),2
+CSP,Licensed Dealer Inspections (CSP),5
+CSP,Pharmacy Inspections (CSP),2
+POD,SAP PS Time Tracking,3
+Licensed Dealer Inspections (CSP),Class A Precursor Inspection Report,1
+Licensed Dealer Inspections (CSP),CDS Inspection Report,1
+Licensed Dealer Inspections (CSP),Border Center Database,1
+Pharmacy Inspections (CSP),Community Pharmacy Internal Inspection Report,1
+Pharmacy Inspections (CSP),Community Pharmacy Inspection Report,1
+Destruction Activities (CSP),Destruction Tracker,1
+Destruction Activities (CSP),Destruction Application,1
+Licensed Dealer Inspections (OCS),Site Risk Profile - LD,1
+Licensed Dealer Inspections (OCS),List of Licensees - CDS,1
+Licensed Dealer Inspections (OCS),List of Licensees - Chemical Precursors,1
+Licensed Dealer Inspections (OCS),Loss & Theft Report,1
+Licensed Dealer Inspections (OCS),Monthly Activity Report - CDS,1
+Licensed Dealer Inspections (OCS),Annual Report - CDS,1
+Licensed Dealer Inspections (OCS),Ephedrine Monthly Report,1
+Licensed Dealer Inspections (OCS),Import Permit Info,1
+Licensed Dealer Inspections (OCS),License Application and Amendment Requests,1
+Licensed Dealer Inspections (OCS),Annual Report - Chemical Precursors,1
+Licensed Dealer Inspections (OCS),Export Info (Permit & Transactions),1
+Licensed Dealer Inspections (OCS),List of Designated Personnel - CDS,1
+Licensed Dealer Inspections (OCS),Correspondance File from LD,1
+Licensed Dealer Inspections (OCS),Notice of Restrictions for Pharmacist and LD,1
+Licensed Dealer Inspections (OCS),Compliance Action (Regulatory Letter),1
+Licensed Dealer Inspections (OCS),LD Profile for Precursor,1
+Licensed Dealer Inspections (OCS),S.56 Exemption Letter,1
+Licensed Dealer Inspections (OCS),S.56 Exemption Holder Dispensing Tracker,1
+Licensed Dealer Inspections (OCS),LD License Including T&C,1
+Licensed Dealer Inspections (OCS),NDS 7,1
+Licensed Dealer Inspections (OCS),Observation Tracker,1
+Pharmacy Inspections (OCS),Site Risk Profile - PI,1
+Pharmacy Inspections (OCS),List of Pharmacies,1
+Pharmacy Inspections (OCS),Loss & Theft Report/Suspicious Transactions - PI,1
+Class A Precursor Inspection Report,Manual Data Entry into Excel (OCS),1
+CDS Inspection Report,Manual Data Entry into Excel (OCS),1
+Community Pharmacy Internal Inspection Report,Manual Data Entry into Excel (OCS),1
+Community Pharmacy Inspection Report,Manual Data Entry into Excel (OCS),1
+Manual Data Entry into Excel (OCS),LD Inspection Tracker,2
+Manual Data Entry into Excel (OCS),Pharmacy Inspection Tracker,2
+LD Inspection Tracker,Y:// Drive,2
+SAP PS Time Tracking,Y:// Drive,3
+Class A Precursor Inspection Report,Database,1
+Site Risk Profile - LD,Unknown,1
+List of Licensees - CDS,Database,1
+List of Licensees - Chemical Precursors,Database,1
+Loss & Theft Report,Unknown,1
+Monthly Activity Report - CDS,Unknown,1
+Annual Report - Chemical Precursors,Unknown,1
+Export Info (Permit & Transactions),Y:// Drive,1
+List of Designated Personnel - CDS,Unknown,1
+Correspondance File from LD,Unknown,1
+License Application and Amendment Requests,Y:// Drive,1
+Annual Report - CDS,Unknown,1
+Ephedrine Monthly Report,Unknown,1
+Import Permit Info,Y:// Drive,1
+Site Risk Profile - PI,Unknown,1
+Notice of Restrictions for Pharmacist and LD,Web,1
+Compliance Action (Regulatory Letter),Unknown,1
+LD Profile for Precursor,Unknown,1
+S.56 Exemption Letter,Unknown,1
+S.56 Exemption Holder Dispensing Tracker,Unknown,1
+LD License Including T&C,Unknown,1
+NDS 7,Unknown,1
+Observation Tracker,Unknown,1
+Loss & Theft Report/Suspicious Transactions - PI,Unknown,1
+Pharmacy Inspection Tracker,Unknown,2
+List of Pharmacies,Unknown,1
+Community Pharmacy Internal Inspection Report,Database,1
+Community Pharmacy Inspection Report,Database,1
+Destruction Tracker,Y:// Drive,1
+Destruction Application,Y:// Drive,1
+Border Center Database,Database,1

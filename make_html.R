@@ -51,7 +51,7 @@ make_index <- function(program,
   }
 
 
-make_index(program = "biologics")
+make_index(program = "controlled_substances")
 
 # Use this code to embed
 #   <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://hc-tbi-dabs.github.io/dataFlows/" height="1200" width="100%"></iframe>

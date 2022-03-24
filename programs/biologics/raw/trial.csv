@@ -1,0 +1,68 @@
+from ,to,weight
+The Great Baking Corporation,Ottawa Baking Company,4
+The Great Baking Corporation,Ajax Baking Company,2
+The Great Baking Corporation,Halifax Baking Company,3
+The Great Baking Corporation,Omemee Baking Company,1
+The Great Baking Corporation,Waterloo Baking Company,4
+Ottawa Baking Company,Amy's Baking Store,1
+Ottawa Baking Company,Pastry Central,1
+Ottawa Baking Company,Pie Town,1
+Ottawa Baking Company,Scones & Coffee Co.,1
+Ajax Baking Company,Jay's Cookie Place,1
+Ajax Baking Company,Phyllo Pastry Place,1
+Halifax Baking Company,Seaside Breads,1
+Halifax Baking Company,Lobster Rolls R Us,1
+Halifax Baking Company,Pearltown Eatery,1
+Omemee Baking Company,Croissant World,1
+Waterloo Baking Company,The Big Cinnamon Bun,1
+Waterloo Baking Company,Darlene's Pies,1
+Waterloo Baking Company,Donut Dreams,1
+Waterloo Baking Company,Mable's Maple Treats,1
+Amy's Baking Store,Apple Pie,1
+Amy's Baking Store,Blueberry Pie,1
+Amy's Baking Store,Coconut Cream Pie,1
+Amy's Baking Store,White Bread,1
+Pastry Central,Pastries,1
+Pastry Central,Pies,1
+Pastries,Spinach,1
+Pastries,Goat Cheese,1
+Pastries,Cherry,1
+Pastries,Sun-dried tomato,1
+Pies,Apple Crunch,1
+Pies,Cinnamon Cream,1
+Pies,Peach,1
+Pie Town,Fresh Pies,1
+Fresh Pies,Strawberry Rhubarb,1
+Fresh Pies,Peach Apple,1
+Fresh Pies,Apricot Sunrise,1
+Fresh Pies,Black Currant & Blueberry,1
+Scones & Coffee Co.,Black Coffee,1
+Black Coffee,With Cream,1
+Black Coffee,Without Cream,1
+Scones & Coffee Co.,Scones,1
+Scones,Cheddar,1
+Scones,Tomato Basil,1
+Jay's Cookie Place,Chocolate Chip,1
+Jay's Cookie Place,Maple Cookie,1
+Jay's Cookie Place,Cinnamon Swirl Cookie,1
+Phyllo Pastry Place,Flaky Phyllo,1
+Phyllo Pastry Place,Non-flaky Phyllo,1
+Seaside Breads,Whole Wheat Loaf,1
+Seaside Breads,White Loaf,1
+Seaside Breads,Grain Loaf,1
+Grain Loaf,Whole Grain,1
+Grain Loaf,Seven Grain,1
+Lobster Rolls R Us,Lobster Roll,1
+Lobster Roll,With butter,1
+Pearltown Eatery,Clam Butter Supreme,1
+Pearltown Eatery,Abalone Sandwich,1
+Croissant World,Chocolate ,1
+Croissant World,Maple,1
+Croissant World,Cheddar,1
+The Big Cinnamon Bun,Large,1
+The Big Cinnamon Bun,Small,1
+Darlene's Pies,Strawberry,1
+Darlene's Pies,4-Berry Blend,1
+Darlene's Pies,Apple Cinnamon,1
+Donut Dreams,Maple Glaze,1
+Mable's Maple Treats,Maple Candy ,1

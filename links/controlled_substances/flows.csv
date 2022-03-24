@@ -1,15 +1,15 @@
 from ,to,weight
 OCS,Licensed Dealer Inspections (OCS),21
-OCS,Pharmacy Inspections (OCS),4
+OCS,Pharmacy Inspections (OCS),3
 CSP,Destruction Activities (CSP),2
-CSP,Licensed Dealer Inspections (CSP),5
-CSP,Pharmacy Inspections (CSP),2
+CSP,Licensed Dealer Inspections (CSP),4
+CSP,Pharmacy Inspections (CSP),4
 POD,SAP PS Time Tracking,3
-Licensed Dealer Inspections (CSP),Class A Precursor Inspection Report,1
+Licensed Dealer Inspections (CSP),Class A Precursor Inspection Report,2
 Licensed Dealer Inspections (CSP),CDS Inspection Report,1
 Licensed Dealer Inspections (CSP),Border Center Database,1
-Pharmacy Inspections (CSP),Community Pharmacy Internal Inspection Report,1
-Pharmacy Inspections (CSP),Community Pharmacy Inspection Report,1
+Pharmacy Inspections (CSP),Community Pharmacy Internal Inspection Report,2
+Pharmacy Inspections (CSP),Community Pharmacy Inspection Report,2
 Destruction Activities (CSP),Destruction Tracker,1
 Destruction Activities (CSP),Destruction Application,1
 Licensed Dealer Inspections (OCS),Site Risk Profile - LD,1
